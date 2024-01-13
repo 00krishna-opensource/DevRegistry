@@ -1,0 +1,6 @@
+name = "DevRegistry"
+uuid = "c42d65c5-f4a5-46cd-937d-ca6575acc600"
+repo = "git@github.com:00krishna-opensource/DevRegistry.git"
+description = "Registry for package under development."
+
+[packages]
